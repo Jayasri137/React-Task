@@ -4,7 +4,7 @@ import plant from "./assets/plant.jpg";
 import pot from "./assets/pot.jpg";
 import icon from "./assets/icon.png";
 
-const Plant = () => {
+const Plants = () => {
 
     const Wrapper = styled.div`
         height:100vh;
@@ -189,4 +189,4 @@ height: 40px;
   )
 }
 
-export default Plant
+export default Plants
